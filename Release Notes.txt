@@ -1,0 +1,10 @@
+Release Notes
+--------------
+(11/2/2017) version 4.0
+
+What's New:
+-You can add text to your image now!
+-Be able to erase anything on the canvas
+
+Future Updates (v4.1):
+-Be able to resize the image. 
